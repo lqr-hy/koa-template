@@ -1,4 +1,4 @@
 import run from './app'
 import config from './app/config'
 
-run(config.server.port)
+run(Number(config.server.port))
