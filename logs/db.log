@@ -1,0 +1,36 @@
+[2022-09-04T22:17:31.362] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-09-04T22:17:37.379] [INFO] db - Executing (default): SELECT `id`, `created_at`, `updated_at` FROM `Admins` AS `Admin` LIMIT 1;
+[2022-09-04T22:20:47.770] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-09-04T22:20:47.785] [INFO] db - Executing (default): SELECT `id`, `name`, `email`, `mobile`, `created_at`, `updated_at` FROM `Admins` AS `Admin` LIMIT 1;
+[2022-09-05T22:39:42.054] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-09-05T22:42:42.044] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-09-05T22:43:38.618] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-09-05T22:43:38.619] [INFO] db - Executing (default): SELECT `id`, `name`, `email`, `mobile`, `created_at`, `updated_at` FROM `Admins` AS `Admin` LIMIT 1;
+[2022-09-05T22:44:14.179] [INFO] db - Executing (default): SELECT `id`, `name`, `email`, `mobile`, `created_at`, `updated_at` FROM `Admins` AS `Admin` LIMIT 1;
+[2022-09-05T22:44:40.828] [INFO] db - Executing (default): SELECT `id`, `name`, `email`, `mobile`, `created_at`, `updated_at` FROM `Admins` AS `Admin` LIMIT 1;
+[2022-09-05T22:44:56.536] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-09-05T22:44:56.538] [INFO] db - Executing (default): SELECT `id`, `name`, `email`, `mobile`, `created_at`, `updated_at` FROM `Admins` AS `Admin` LIMIT 1;
+[2022-09-05T22:45:32.638] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-09-05T22:45:33.251] [INFO] db - Executing (default): SELECT `id`, `name`, `email`, `mobile`, `created_at`, `updated_at` FROM `Admins` AS `Admin` LIMIT 1;
+[2022-09-06T08:52:24.821] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-09-06T08:57:01.478] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-09-06T08:57:10.178] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-09-06T08:57:31.440] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-09-06T08:57:32.019] [INFO] db - Executing (default): SELECT `id`, `name`, `email`, `mobile`, `created_at`, `updated_at` FROM `Admins` AS `Admin` LIMIT 1;
+[2022-09-06T08:58:15.977] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-09-06T09:00:34.026] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-09-06T09:00:45.247] [INFO] db - Executing (default): SELECT `id`, `name`, `email`, `mobile`, `created_at`, `updated_at` FROM `Admins` AS `Admin` LIMIT 1;
+[2022-09-06T09:00:50.266] [INFO] db - Executing (default): SELECT `id`, `name`, `email`, `mobile`, `created_at`, `updated_at` FROM `Admins` AS `Admin` LIMIT 1;
+[2022-09-06T09:01:16.241] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-09-06T09:01:16.242] [INFO] db - Executing (default): SELECT `id`, `name`, `email`, `mobile`, `created_at`, `updated_at` FROM `Admins` AS `Admin` LIMIT 1;
+[2022-09-06T09:01:21.951] [INFO] db - Executing (default): SELECT `id`, `name`, `email`, `mobile`, `created_at`, `updated_at` FROM `Admins` AS `Admin` LIMIT 1;
+[2022-09-06T09:01:38.964] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-09-06T09:01:39.461] [INFO] db - Executing (default): SELECT `id`, `name`, `email`, `mobile`, `created_at`, `updated_at` FROM `Admins` AS `Admin` LIMIT 1;
+[2022-09-06T09:01:47.386] [INFO] db - Executing (default): SELECT `id`, `name`, `email`, `mobile`, `created_at`, `updated_at` FROM `Admins` AS `Admin` LIMIT 1;
+[2022-09-06T09:02:06.813] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-09-06T09:36:54.055] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-09-06T09:37:03.823] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-09-06T09:37:03.898] [INFO] db - Executing (default): SELECT `id`, `name`, `email`, `mobile`, `created_at`, `updated_at` FROM `Admins` AS `Admin` LIMIT 1;
+[2022-09-06T09:37:44.918] [INFO] db - Executing (default): SELECT `id`, `name`, `email`, `mobile`, `created_at`, `updated_at` FROM `Admins` AS `Admin` LIMIT 1;
+[2022-09-06T09:37:55.129] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-09-06T09:37:55.130] [INFO] db - Executing (default): SELECT `id`, `name`, `email`, `mobile`, `created_at`, `updated_at` FROM `Admins` AS `Admin` LIMIT 1;
